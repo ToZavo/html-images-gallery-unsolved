@@ -29,21 +29,21 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing 
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] Initialize playwright and install project packages
+  - [x] Use `npm i` to install packages
+  - [x] Use `npm run browser-install` to install the browser environment for testing
+- [x] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] **The project's file/folder structure should NOT be edited!**
-- [ ] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
-  - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-main` to run index.html file tests
-  - [ ] Use `npm run test-modern-design` to run modern-design.html file tests
-  - [ ] Use `npm run test-nature` to run nature.html file tests
-  - [ ] Use `npm run test-plants` to run plants.html file tests
-  - [ ] Use `npm run test-space` to run space.html file tests
+- [x] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
+  - [x] Use `npm run test` to run all tests in the terminal
+  - [x] Use `npm run test-main` to run index.html file tests
+  - [x] Use `npm run test-modern-design` to run modern-design.html file tests
+  - [x] Use `npm run test-nature` to run nature.html file tests
+  - [x] Use `npm run test-plants` to run plants.html file tests
+  - [x] Use `npm run test-space` to run space.html file tests
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
